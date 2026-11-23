@@ -1,0 +1,10 @@
+# 构建产物
+wintop.exe
+*.pdb
+
+# 本机运行时配置（含个人热键 / 配色）
+settings.ini
+debug.log
+
+# 架构图与生成回执（本地文档，不进仓库）
+arch/
